@@ -1,0 +1,4 @@
+image_path: assets/images/todo.png # Path to your logo image
+color: "42A5F5"  # Background color of the splash screen in hexadecimal
+android: true
+ios: true
